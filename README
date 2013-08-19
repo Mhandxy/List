@@ -3,3 +3,6 @@ a pthread-safe List library writed by C language
 C语言 线程安全的链表库
 
 main.c is for test
+
+LOG
+2013/8/20 删除 main.out
